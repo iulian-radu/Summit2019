@@ -287,7 +287,10 @@ Now that we have model results, let's create an algorithmic trait from it. We wi
 6. Select *85% Accuracy*
 7. Click *Save*
 
-Your algorithhmic trait has been created. It will take several hours for the trait to get populated. Next, you can map it to a destination and activate it.
+##### Spotlight
+
+- Your algorithhmic trait has been created. It will take several hours for the trait to get populated. Next, you can map it to a destination and activate it.
+- Going forwards, we will retrain the model and repopulate the algo trait every 8 days. The trait size may somewhat fluctuate, depending on the model results.
 
 ---
 
