@@ -717,7 +717,7 @@ Now that you have learned how to build traits, segments, and models via the Audi
 
 As an added bonus, we have included a script that you could use in the future should you decide to automate the creation of traits, segments, and models for your account via the [Audience Manager's APIs](https://marketing.adobe.com/resources/help/en_US/aam/c_rest_api_main.html).
 
-[Provisioning script for the summit test site](https://github.com/iulian-radu/Summit2018/tree/master/L757/script/)
+[Provisioning script for the summit test site](https://github.com/iulian-radu/Summit2019/tree/master/L743/script/)
 
 ---
 
